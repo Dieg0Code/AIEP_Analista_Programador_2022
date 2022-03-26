@@ -63,3 +63,65 @@ En una empresa, esta condición, es fundamental para la innovación, y será det
 Cuando diseñamos un nuevo modelo de negocio, probablemente incorporaremos un conjunto de hipótesis que requieren ser validadas y retroalimentadas de forma constante para así tener la certeza de que van a generar el valor estimado y por ende el éxito de este nuevo modelo de negocio. Por lo tanto, se necesita trabajar con metodologías que faciliten la compresión y el diseño en su marco global y particular de las dimensiones descritas.
 
 Una de estas metodologías o herramienta es el model ``Lean Canvas``.
+
+## Bussines Model Canvas
+
+El lean canvas o canvas, ha permitido que emprendedores puedan explorar de forma completa los elementos claves para un modelo de negocio.
+
+![Canvas](./assets/LeanCanvasBoard.png)
+
+### Segmento de Clientes
+
+Este bloque define los perfiles de clientes a quienes se enfoca la oferta de valor. 
+
+![Clientes](./assets/CanvasClientes.png)
+
+### Propuesta de valor
+
+Corresponde a la descripción de lo que el cliente necesita resolver y por lo cual estaría dispuesto a pagar (un problema a resolver)
+
+![Propuesta de valor](./assets/CanvasPropuestaValor.png)
+
+### Relación con el cliente
+
+El tipo de relación con el cliente estará determinado por como se establece un vínculo efectivo entre la necesidad a resolver y el tipo de cliente a abordar.
+
+![Relación con el cliente](./assets/CanvasRelacionCliente.png)
+
+### Fuentes de Ingreso
+
+Es la forma en la cual se reciben ingresos por la combinación entre los tres bloques anteriores. En un contexto donde lo digital está transformando la manera como se hace negocios, es fundamental entender con una mirada amplia las diversas posibilidades que hoy y mañana existirán para articular este bloque.
+
+![Fuentes de ingreso](./assets/CanvasFuenteIngresos.png)
+
+### Canales de distribución
+
+En los canales de distribución, se identifica la forma mediante la cual el cliente podrá acceder a la oferta de valor. 
+
+Se debe tener una mirada de futuro de modo de conocer y comprender el impacto que tiene y tendrá lo digital en la configuración de un modelo de negocio.
+
+![Canales de distribución](./assets/CanvasCanalesDistribucion.png)
+
+### Actividades clave
+
+La empresa articula una oferta de valor desde lo que es capaz de hacer sobre la base de sus capacidades únicas o diferenciadas
+
+![actividades clave](./assets/CanvasActividadesClave.png)
+
+### Recursos clave
+
+Los recursos clave, identifican los diferentes aspectos que la empresa necesita para materializar la oferta de valor. Estos recursos financieros, de personas, físicos o digitales, debiesen considerar también un aspecto diferenciador.
+
+![canvas recursos clave](./assets/CanvasRecursosClave.png)
+
+### Relación con proveedores
+
+Se identifican la serie de alianzas que la empresa debe realizar para accionar su oferta de valor para ganar en velocidad, costo y/o calidad
+
+![Relación con proveedores](./assets/CanvasRelacionProveedores.png)
+
+### Estructura de costos
+
+Se define a partir de la forma como los costos u otros aspectos que los definen articulan de forma efectiva e innovadora la materialización de la propuesta de valor hacia el cliente. 
+
+![Estructura de costos](./assets/CanvasEstructuraCostos.png)
