@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HolaMundo 2.0</string>
+    <string-array name="nombres">
+        <item>Felipe</item>
+        <item>Pamela</item>
+        <item>Jorge</item>
+        <item>Daniela</item>
+        <item>Benjamin</item>
+    </string-array>
+</resources>
